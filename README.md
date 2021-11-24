@@ -52,8 +52,10 @@ Todos os campos são obrigatórios:
 Url_heroku/roupas/update/id
 
 Todos os campos são obrigatórios:
-{ "tipo": "String", 
+{ 
 
+  "tipo": "String", 
+  
   "genero": "String",
   
   "marca": "String", 
@@ -79,7 +81,9 @@ Url_heroku/calcados/listid/id
 Url_heroku/calcados/add
 
 Todos os campos são obrigatórios:
-{ "tipo": "String", 
+{ 
+
+  "tipo": "String", 
 
   "genero": "String",
   
@@ -95,7 +99,9 @@ Todos os campos são obrigatórios:
 Url_heroku/calcados/update/id
 
 Todos os campos são obrigatórios:
-{ "tipo": "String", 
+{ 
+
+  "tipo": "String", 
 
   "genero": "String",
   
