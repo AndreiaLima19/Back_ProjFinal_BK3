@@ -33,7 +33,8 @@ Url_heroku/roupas/listid/id
 Url_heroku/roupas/add
 
 Todos os campos são obrigatórios:
-{ "tipo": "String", 
+{ 
+"tipo": "String", 
 
   "genero": "String",
   
