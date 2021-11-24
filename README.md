@@ -30,12 +30,12 @@ API com rotas e banco de dados distintos, através do VS Code.
 
 [GET] Leitura de itens individuais (por ID):
 
-Url_heroku/roupas/listid/id
+##### Url_heroku/roupas/listid/id
 
 
 [POST] Cadastro:
 
-Url_heroku/roupas/add
+##### Url_heroku/roupas/add
 
 
 Todos os campos são obrigatórios:
@@ -56,7 +56,7 @@ Todos os campos são obrigatórios:
 
 [PUT] Edição de item por ID:
 
-Url_heroku/roupas/update/id
+##### Url_heroku/roupas/update/id
 
 Todos os campos são obrigatórios:
 { 
@@ -75,24 +75,24 @@ Todos os campos são obrigatórios:
 
 [DELETE] Exclusão de item por ID:
 
-Url_heroku/roupas/delete/id
+##### Url_heroku/roupas/delete/id
 
 
 ## **** Endpoints - Calçados ****
 
 [GET] Leitura de todos os itens:
 
-Url_heroku/calcados/listall
+##### Url_heroku/calcados/listall
 
 
 [GET] Leitura de itens individuais (por ID):
 
-Url_heroku/calcados/listid/id
+##### Url_heroku/calcados/listid/id
 
 
 [POST] Cadastro:
 
-Url_heroku/calcados/add
+##### Url_heroku/calcados/add
 
 
 Todos os campos são obrigatórios:
@@ -112,7 +112,7 @@ Todos os campos são obrigatórios:
 
 [PUT] Edição de item por ID:
 
-Url_heroku/calcados/update/id
+##### Url_heroku/calcados/update/id
 
 
 Todos os campos são obrigatórios:
@@ -132,7 +132,7 @@ Todos os campos são obrigatórios:
 
 [DELETE] Exclusão de item por ID:
 
-Url_heroku/calcados/delete/id
+##### Url_heroku/calcados/delete/id
 
 
 ### Projeto configurado e conectado ao Mongo Atlas.
