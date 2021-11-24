@@ -89,7 +89,7 @@ Todos os campos são obrigatórios:
   
   "marca": "String", 
   
-  "tamanho": "String",
+  "tamanho": "Number",
   
   "cor": "String"
   
@@ -107,7 +107,7 @@ Todos os campos são obrigatórios:
   
   "marca": "String", 
   
-  "tamanho": "String",
+  "tamanho": "Number",
   
   "cor": "String"
   
